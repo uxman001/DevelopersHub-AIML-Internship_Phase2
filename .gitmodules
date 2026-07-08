@@ -1,0 +1,6 @@
+[submodule "Multimodal_Housing_Price_Prediction"]
+	path = Multimodal_Housing_Price_Prediction
+	url = https://github.com/uxman001/Multimodal_Housing_Price_Prediction.git
+[submodule "End-to_End_ML_Pipeline"]
+	path = End-to_End_ML_Pipeline
+	url = https://github.com/uxman001/End-to_End_ML_Pipeline.git
