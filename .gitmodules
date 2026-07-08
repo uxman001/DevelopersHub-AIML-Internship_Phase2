@@ -4,3 +4,6 @@
 [submodule "End-to_End_ML_Pipeline"]
 	path = End-to_End_ML_Pipeline
 	url = https://github.com/uxman001/End-to_End_ML_Pipeline.git
+[submodule "Auto_Tagging_Support_Tickets_with_LLM"]
+	path = Auto_Tagging_Support_Tickets_with_LLM
+	url = https://github.com/uxman001/Auto_Tagging_Support_Tickets_with_LLM.git
